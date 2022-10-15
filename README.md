@@ -9,4 +9,4 @@ All information in the two Barley XML files (default Barley.xml and barley with 
 
 APSIM with waterlogging scripts could be downloaded using this link: https://universitytasmania-my.sharepoint.com/:u:/r/personal/ke_liu_utas_edu_au/Documents/Waterlogging_APSIM/APSIMv7.9.zip?csf=1&web=1&e=C3yo5b
 
-Soild data (e.g. soil texture, bulk density, pH, and organic carbon content etc) were obtained from the International Soil Reference and Information Centre. 
+Soil data (e.g. soil texture, bulk density, pH, and organic carbon content etc) were obtained from the International Soil Reference and Information Centre. 
